@@ -1,0 +1,14 @@
+{
+  "name": "fetch-lua-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that fetches URLs and saves as Lua files",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "request-promise": "^4.2.6",
+    "dotenv": "^16.3.1"
+  }
+}
